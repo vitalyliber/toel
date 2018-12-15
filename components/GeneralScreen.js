@@ -36,7 +36,7 @@ export default class GeneralScreen extends Component {
         </div>
         <style jsx>{`
           .cover-container {
-            background-image: url(https://scontent-frt3-1.cdninstagram.com/vp/ca8590f4340872c0a85ca05c4367457a/5CA6A257/t51.2885-15/sh0.08/e35/s750x750/26864303_174903446610191_8432311993771229184_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com);
+            background-image: url(../static/images/coding.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
